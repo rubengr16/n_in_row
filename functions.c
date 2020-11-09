@@ -38,7 +38,7 @@ void initiate(char board[N][N])
 
     for(i = 0; i < N; i++)
         for(j = 0; j < N; j++)
-            board[i][j] = EMPTY; //set - as empty square
+            board[i][j] = EMPTY; //set empty square
 }
 
 void erase(char board[N][N], char token)

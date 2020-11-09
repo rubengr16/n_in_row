@@ -1,2 +1,2 @@
 # NinRow
-N in Row Game
+N in Row Game.
